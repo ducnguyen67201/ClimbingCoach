@@ -92,6 +92,10 @@ Add entries under `Past Week Log` after every session. Keep them short but concr
 - Skin, sleep, soreness, and any finger or shoulder pain.
 - One technique note that made a move easier.
 
+## Plan Adjustment Log
+
+Use this section when a planned day changes, such as skipping a session, swapping days, making a day harder, making a day softer, or replacing climbing with recovery.
+
 ## Plan History
 
 No archived plans yet.

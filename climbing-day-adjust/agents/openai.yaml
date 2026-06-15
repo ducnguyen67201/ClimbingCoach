@@ -1,0 +1,4 @@
+interface:
+  display_name: "Climbing Day Adjust"
+  short_description: "Swap or scale planned climbing days"
+  default_prompt: "Use $climbing-day-adjust to update my journey when I skip, swap, harden, or soften a planned climbing day."

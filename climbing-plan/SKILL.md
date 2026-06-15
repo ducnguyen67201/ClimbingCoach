@@ -110,7 +110,7 @@ When the user asks to put the climbing plan into Google Calendar, or when they c
 3. Treat discovered `Climbing` events as the source of truth for training dates and times.
 4. Read matching events before writing.
 5. For recurring events, update individual instances with `update_scope: this_instance`.
-6. Put each day's plan in that day's event description: title line, morning routine, session warmup, climb, train, cooldown, guide links, and log-after bullets.
+6. Put each day's plan in that day's event description: title line, then visually bold section headers for morning routine, session warmup, climb, train, cooldown, guide links, and log-after bullets. Prefer Calendar-safe bold Unicode heading text such as `𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗽𝗿𝗲𝗽, 𝟴-𝟭𝟬 𝗺𝗶𝗻:` because the connector may escape raw HTML tags.
 7. Do not create, delete, move, resize, rename, recolor, change attendees, change reminders, change location, add/remove Meet links, or change recurrence. Only update the event description.
 8. If no matching event exists for a planned day, leave the calendar unchanged for that day and mention that no matching time block was found.
 9. Re-read updated events and report exact dates whose descriptions changed.

@@ -10,11 +10,28 @@
 
 ## Weekly Priorities
 
-1. Finger strength: keep this as the highest return training block unless fingers feel tweaky.
-2. Limit board climbing: use hard projects and short links, not high-volume cruising.
-3. Pulling power: weighted pull-ups, lock-off work, and one-arm progression work when recovered.
-4. Body tension: front lever progressions, toes-to-bar, hollow tension, and steep-board precision.
-5. Technique: heel hooks, toe hooks, compression, deadpoints, and tension through foot cuts.
+1. Capacity first when sessions feel inconsistent or fingers flare after hard Kilter climbing.
+2. Pain-free finger loading: avoid repeated max crimping when fingers feel irritated.
+3. Repeatable board volume: use submaximal Kilter or gym boulders that preserve movement quality.
+4. Pulling and body tension: use 5x5-style strength before chasing max singles.
+5. Technique under volume: heel hooks, toe hooks, compression, deadpoints, and tension through foot cuts.
+
+## Periodization Rule
+
+Use a 3 to 6 week capacity block before returning to max-output work when the athlete reports:
+
+- Random low-quality sessions.
+- Feeling out of gas within a session.
+- Finger pain or finger tightness after very hard Kilter attempts.
+- A current max around V10 but poor repeatability below max.
+
+During the capacity block:
+
+- Keep board climbing around RPE 6 to 8.
+- Avoid true max hangs, repeated V10+ limit attempts, and hard crimp ladders.
+- Use 5x5-style work: 5 repeatable problems, 5 quality repeats each, or 5 sets of 5 controlled strength reps.
+- End sessions with fingers feeling trained but not angry.
+- Progress by adding cleaner repeats before adding grade or load.
 
 ## Default 3-Day Structure
 
@@ -27,12 +44,12 @@
 - 1 minute readiness check: fingers, shoulders, skin, sleep, and motivation.
 - If readiness is poor, keep the session softer before adding intensity.
 
-### Day 1 - Max Strength and Limit Board
+### Day 1 - Capacity Baseline
 
 - Warm up for 20 to 30 minutes with progressive movement and easy finger loading.
-- Finger strength: lifting edge or hangboard, 4 sets of 4 to 5 second max efforts with full recovery.
-- Limit board: 45 to 60 minutes on V11 to V13 moves, 3 to 5 move sequences, or one-move cruxes.
-- Pull strength: weighted pull-ups, 4 sets of 3 heavy reps.
+- Board capacity: choose 5 problems at roughly 60 to 75 percent max, repeat each for up to 5 clean sends.
+- Rest 60 to 120 seconds between repeats and 3 to 5 minutes between problems.
+- Pull strength: 5 sets of 5 controlled pull-ups or light weighted pull-ups at RPE 7.
 - Finish with 10 minutes of mobility.
 
 ### Day 2 - Volume and Technique
@@ -45,14 +62,15 @@
 
 ### Day 3 - Power and Project Links
 
-- Finger strength only if recovered from Day 1.
-- Max effort Kilterboard for 45 to 60 minutes with long rests.
-- Work V11 to V12 moves, powerful links, and dynamic board movement.
-- Add dips or pressing strength, 3 sets of 5 to 8, if shoulders feel good.
+- Keep this below true max during capacity blocks.
+- Work powerful but repeatable links around V7 to V9, not desperate V10+ attempts.
+- Use 4x4 or 5x5 link work with clean movement and full control.
+- Add dips or pressing strength, 5 sets of 5 at moderate effort, if shoulders feel good.
 
 ## Adjustment Rules
 
 - If fingers feel sharp, nervy, or tweaky: remove max hangs and hard crimping for the week.
+- If hard Kilter attempts make fingers hurt, downgrade the next 2 weeks to capacity climbing and avoid true max-output work.
 - If the athlete missed two sessions last week: restart with one hard day, one technique day, and one moderate project day.
 - If sleep and recovery were poor: cut accessory lifting volume by 30 to 50 percent.
 - If all sessions were completed and the athlete feels fresh: progress one variable only, such as load, board intensity, or total hard attempts.

@@ -36,7 +36,9 @@ Use this skill to turn recent climbing logs into a focused next-week plan inside
 ## Planning Rules
 
 - Treat the athlete's baseline as V9 outdoors, V10 Kilterboard, 3 climbing days per week, and a V12 Kilterboard goal by the end of 2026 unless the journey says otherwise.
-- Prioritize finger strength, limit bouldering, pulling power, body tension, and technique under fatigue.
+- If the athlete reports inconsistent session quality, finger pain after hard Kilter attempts, or feeling like capacity is missing, prioritize a capacity block before max-output work.
+- During a capacity block, bias toward repeatable submaximal board volume, 5x5-style climbing or strength, movement quality, and pain-free finger loading.
+- Return to max finger strength, limit bouldering, and V11-V13 attempts only after sessions feel consistent and finger irritation is quiet for at least 2 weeks.
 - Do not turn every week into a max week. Adjust volume down when the past week shows high fatigue, tweaky fingers, poor sleep, or repeated missed sessions.
 - When the user gives specific training days or calendar events are discovered, map the core sessions onto those days and name the date and time for each session.
 - Add a short morning routine for each climbing day: breathing, hips, thoracic spine, shoulders, wrists, fingers, and a readiness check.
@@ -60,7 +62,7 @@ Use this structure when replacing `## Current Plan`:
 **Main focus**
 - ...
 
-**Day 1 - Weekday, YYYY-MM-DD - Max strength and limit board**
+**Day 1 - Weekday, YYYY-MM-DD - Capacity baseline**
 - Morning:
 - Session warmup:
 - Climb:
@@ -76,7 +78,7 @@ Use this structure when replacing `## Current Plan`:
 - Cooldown:
 - ...
 
-**Day 3 - Weekday, YYYY-MM-DD - Power and project links**
+**Day 3 - Weekday, YYYY-MM-DD - Capacity strength and links**
 - Morning:
 - Session warmup:
 - Climb:

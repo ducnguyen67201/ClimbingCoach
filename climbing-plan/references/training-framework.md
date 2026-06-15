@@ -18,6 +18,15 @@
 
 ## Default 3-Day Structure
 
+### Climbing Day Morning Routine
+
+- 2 minutes easy breathing or walking to check energy.
+- 2 minutes hips: deep squat pry, hip airplanes, or lunges.
+- 2 minutes thoracic spine and shoulders: open books, scap push-ups, band pull-aparts, or wall slides.
+- 1 minute wrists and forearms: wrist rocks and gentle finger flicks.
+- 1 minute readiness check: fingers, shoulders, skin, sleep, and motivation.
+- If readiness is poor, keep the session softer before adding intensity.
+
 ### Day 1 - Max Strength and Limit Board
 
 - Warm up for 20 to 30 minutes with progressive movement and easy finger loading.
@@ -54,4 +63,6 @@
 - Be direct and specific.
 - Prefer checklists and measurable session targets.
 - Include "what to log next week" so the next plan has useful data.
+- When specific weekdays are provided, write the exact date and weekday for each climbing day.
+- Include morning routine, session warmup, climb, train, cooldown, and logging bullets for each climbing day.
 - Avoid branded coach language. Keep the tone like a practical climbing coach.

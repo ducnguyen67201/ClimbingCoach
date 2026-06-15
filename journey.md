@@ -45,41 +45,50 @@ Add entries under `Past Week Log` after every session. Keep them short but concr
 
 - Starting baseline is strong: V9 outdoors and V10 on Kilterboard.
 - The biggest useful lever is not more random volume. The plan should bias toward finger strength, hard board attempts, pulling power, body tension, and better movement quality.
-- Recent session data is still thin, so this first week is a structured baseline week. Log details after each day so the next plan can adapt.
+- Recent session data is still thin, so this first week is a structured baseline week. You will climb Tuesday, Friday, and Sunday.
 
 **Main focus**
 
-- Train 3 days with full recovery between hard sessions.
-- Make Day 1 and Day 3 high-quality hard attempts, not mileage.
-- Keep Day 2 technical and submaximal enough that it supports the next hard day.
+- Tuesday is max strength plus limit board.
+- Friday is volume, technique, and core without draining Sunday.
+- Sunday is power and project links.
+- Keep Wednesday, Thursday, and Saturday as recovery or very light mobility days.
 
-**Day 1 - Max strength and limit board**
+**Day 1 - Tuesday, 2026-06-16 - Max strength and limit board**
 
-- Warm up for 20 to 30 minutes: easy climbing, progressive hangs, shoulder activation, and a few short board moves.
-- Finger strength: lifting edge or 20 mm edge, 4 sets of 4 reps at 5 seconds each. Rest fully between reps and sets.
-- Limit board: 45 to 60 minutes on V11 to V13 moves or 3 to 5 move links. Rest long enough that every try is high quality.
-- Pull strength: weighted pull-ups, 4 sets of 3 heavy reps.
-- Cool down with 10 minutes of shoulders, hips, and forearms.
+- Morning: 8 to 10 minutes. Do 2 minutes easy breathing or walking, 2 minutes hips, 2 minutes thoracic spine, 2 minutes shoulders and wrists, then check fingers, skin, sleep, and motivation.
+- Session warmup: 25 minutes. Easy climbing, progressive hangs, shoulder activation, and 3 to 5 short board moves that build toward max effort.
+- Train before board: lifting edge or 20 mm edge, 4 sets of 4 reps at 5 seconds each with full rest.
+- Climb: 45 to 60 minutes of limit board. Pick V11 to V13 moves, one-move cruxes, or 3 to 5 move links. Rest 3 to 5 minutes between serious tries. Stop before power quality drops.
+- Train after board: weighted pull-ups, 4 sets of 3 heavy reps.
+- Cooldown: 10 minutes of easy climbing, forearm flush, shoulder mobility, and hip mobility.
+- Log: hardest single move, best link, hang load or edge setup, pull-up load, skin, fingers, shoulders, and one movement cue that helped.
 
-**Day 2 - Volume and technique**
+**Day 2 - Friday, 2026-06-19 - Volume and technique**
 
-- Warm up well, then climb a controlled pyramid: 4 x V6, 3 x V7, 2 x V8, 1 x V9, adjusted to the gym set and recovery.
-- Move with quiet feet, precise hips, and deliberate tension. Stop before attempts get sloppy.
-- Optional shoulder press or antagonist press: 3 sets of 8 moderate reps.
-- Core: 10 to 15 minutes of toes-to-bar, hollow holds, or front lever progression work.
+- Morning: 8 to 10 minutes. Hips, thoracic spine, shoulders, wrists, and 30 seconds of finger pulses. If fingers still feel loaded from Tuesday, keep the session technical.
+- Session warmup: 20 minutes. Easy boulders, foot drills, hip turns, and 2 to 3 moderate board problems.
+- Climb: controlled pyramid: 4 x V6, 3 x V7, 2 x V8, 1 x V9, adjusted to available climbs. Every attempt should look clean. Prioritize quiet feet, hips close, heel hooks, toe hooks, and tension through foot cuts.
+- Train: optional shoulder press or antagonist press, 3 sets of 8 moderate reps. Core for 12 to 15 minutes: toes-to-bar, hollow holds, or front lever progressions.
+- Cooldown: 10 minutes easy movement plus forearms, lats, and hips.
+- Log: total problems, any flashes, any failed grades, what technique made climbs feel easier, and whether Sunday should stay hard.
 
-**Day 3 - Power and project links**
+**Day 3 - Sunday, 2026-06-21 - Power and project links**
 
-- Warm up for 25 minutes and test finger readiness before loading hard.
-- If recovered, repeat finger strength at slightly lower volume: 3 sets of 4 reps at 5 seconds each.
-- Kilterboard max effort: 45 to 60 minutes on V11 to V12 moves, powerful links, deadpoints, heel hooks, toe hooks, and compression.
-- Dips: 3 sets of 6 heavy or controlled reps if shoulders feel good.
-- Finish with easy movement and forearm recovery.
+- Morning: 8 to 10 minutes. Breathing, hips, thoracic spine, shoulders, wrists, and a strict readiness check. If skin or fingers are bad, make this a softer technique day.
+- Session warmup: 25 minutes. Easy climbing, progressive board movement, and 3 short bursts that feel powerful but not desperate.
+- Train before board: if recovered, finger strength at lower volume: 3 sets of 4 reps at 5 seconds each.
+- Climb: 45 to 60 minutes on V11 to V12 moves, powerful links, deadpoints, heel hooks, toe hooks, and compression. Choose 1 main project and 1 backup project. Rest 4 to 6 minutes between high-quality attempts.
+- Train after board: dips, 3 sets of 6 controlled reps, only if shoulders feel good.
+- Cooldown: easy climbing, forearm recovery, gentle shoulder work, and 5 minutes of hips.
+- Log: best move, best link, whether the project felt closer, any finger or shoulder warning signs, and what to try first next week.
 
 **Recovery and guardrails**
 
 - Stop max finger work immediately if pain feels sharp, nervy, or one-sided.
-- Keep at least one rest day between Day 1 and Day 3.
+- Wednesday: 10 to 20 minutes easy walk plus hips, shoulders, and forearms.
+- Thursday: rest or 10 minutes mobility only.
+- Saturday: rest, skin care, and light mobility. No hard pulling.
 - If skin is the limiter, reduce board attempts before reducing warmup or mobility.
 - Progress only one thing next week: board difficulty, hang load, or number of quality hard attempts.
 
@@ -98,4 +107,8 @@ Use this section when a planned day changes, such as skipping a session, swappin
 
 ## Plan History
 
-No archived plans yet.
+### Archived 2026-06-15 baseline draft
+
+- Day 1: max strength, finger strength, limit board, weighted pull-ups, mobility.
+- Day 2: volume and technique pyramid, optional shoulder press, core.
+- Day 3: power, project links, optional lower-volume finger strength, dips.

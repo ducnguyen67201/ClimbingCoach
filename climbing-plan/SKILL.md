@@ -1,6 +1,6 @@
 ---
 name: climbing-plan
-description: Create and maintain climbing training plans from a journey document. Use when Codex is asked to read the past week of climbing, summarize logged sessions, update a climbing journey, write next-week climbing plans, adjust 3-day-per-week Kilterboard or bouldering training, or maintain a V12 climbing goal without branded coach terminology.
+description: Create and maintain climbing training plans from a journey document. Use when Codex is asked to read the past week of climbing, summarize logged sessions, update a climbing journey, write next-week climbing plans, sync climbing plans into Google Calendar events, adjust 3-day-per-week Kilterboard or bouldering training, or maintain a V12 climbing goal without branded coach terminology.
 ---
 
 # Climbing Plan
@@ -27,7 +27,8 @@ Use this skill to turn recent climbing logs into a focused next-week plan inside
 7. Include day-specific timing when the user provides weekdays or dates.
 8. Include morning mobility, readiness check, session warmup, primary climbing work, strength accessories, cooldown, recovery, success criteria, and adjustment rules.
 9. Preserve user logs exactly unless the user asks for cleanup.
-10. Run `scripts/quality_check.py` against the repository or edited document before finishing.
+10. If the user asks to update calendar events, follow the Calendar Sync workflow below after the journey plan is updated.
+11. Run `scripts/quality_check.py` against the repository or edited document before finishing.
 
 ## Planning Rules
 
@@ -91,3 +92,16 @@ Use this structure when replacing `## Current Plan`:
 - `references/training-framework.md`: load before writing plans.
 - `scripts/find_journey.py`: locate the journey file when the path is not provided.
 - `scripts/quality_check.py`: scan edited files for accidental banned brand wording.
+
+## Calendar Sync
+
+When the user asks to put the climbing plan into Google Calendar:
+
+1. Use the Google Calendar connector.
+2. Search bounded to the planned week with query `Climbing`.
+3. Read matching events before writing.
+4. For recurring Tuesday/Friday style events, update individual instances with `update_scope: this_instance` unless the user explicitly asks to change the full series.
+5. Put each day's plan in that day's event description: title line, morning routine, session warmup, climb, train, cooldown, and log-after bullets.
+6. Preserve existing title, time, attendees, color, reminders, location, and meeting links unless the user asks to change them.
+7. If the journey has a planned climbing day but no matching calendar event exists, create a `Climbing` event at the user's established climbing block time when obvious from the week, usually 17:30-22:00 in `America/Toronto`.
+8. Re-read updated events and report exact dates changed.

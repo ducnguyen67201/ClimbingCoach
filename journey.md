@@ -105,6 +105,14 @@ Add entries under `Past Week Log` after every session. Keep them short but concr
 
 Use this section when a planned day changes, such as skipping a session, swapping days, making a day harder, making a day softer, or replacing climbing with recovery.
 
+## Calendar Sync Log
+
+### 2026-06-15
+
+- Tuesday, 2026-06-16: updated existing `Climbing` event with max strength and limit board plan.
+- Friday, 2026-06-19: updated existing `Climbing` event with volume and technique plan.
+- Sunday, 2026-06-21: created `Climbing` event from 17:30 to 22:00 with power and project links plan.
+
 ## Plan History
 
 ### Archived 2026-06-15 baseline draft

@@ -28,7 +28,7 @@ Use this skill to turn recent climbing logs into a focused next-week plan inside
 8. Keep the plan to 3 climbing days unless the user explicitly requests otherwise or the calendar only contains a different number of climbing blocks.
 9. Include day-specific timing when the user provides weekdays/dates or when calendar events are discovered.
 10. Include morning mobility, readiness check, session warmup, primary climbing work, strength accessories, cooldown, recovery, success criteria, and adjustment rules.
-11. Include exercise guide links for non-obvious exercises, either inline or as an `Exercise guide links` section.
+11. Include exercise guide links and brief execution descriptions for non-obvious exercises, either inline or as an `Exercise guide links` section.
 12. Preserve user logs exactly unless the user asks for cleanup.
 13. If the user asks to update calendar events, follow the Calendar Sync workflow below after the journey plan is updated.
 14. Run `scripts/quality_check.py` against the repository or edited document before finishing.
@@ -40,7 +40,7 @@ Use this skill to turn recent climbing logs into a focused next-week plan inside
 - Do not turn every week into a max week. Adjust volume down when the past week shows high fatigue, tweaky fingers, poor sleep, or repeated missed sessions.
 - When the user gives specific training days or calendar events are discovered, map the core sessions onto those days and name the date and time for each session.
 - Add a short morning routine for each climbing day: breathing, hips, thoracic spine, shoulders, wrists, fingers, and a readiness check.
-- Add guide links for strength, core, fingerboard, and technique exercises when they appear in the plan.
+- Add guide links and one-line execution cues for morning mobility, strength, core, fingerboard, and technique exercises when they appear in the plan.
 - Write plans that can be executed in a normal gym session without needing extra explanation.
 - Use neutral wording such as "climbing coach", "training plan", "weekly plan", or "board plan".
 - Avoid the old app or coach brand name in every generated file and response.

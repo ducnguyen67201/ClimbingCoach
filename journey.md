@@ -94,6 +94,7 @@ Add entries under `Past Week Log` after every session. Keep them short but concr
 
 **Exercise guide links**
 
+- Morning mobility: [hips, thoracic spine, shoulders, wrists, readiness check](climbing-plan/references/exercise-guide.md#morning-mobility)
 - Finger strength: [hangboarding routine](climbing-plan/references/exercise-guide.md#finger-strength)
 - Weighted pull-ups, dips, shoulder press: [pulling and pressing](climbing-plan/references/exercise-guide.md#pulling-and-pressing)
 - Front lever, toes-to-bar, hollow holds: [core and body tension](climbing-plan/references/exercise-guide.md#core-and-body-tension)

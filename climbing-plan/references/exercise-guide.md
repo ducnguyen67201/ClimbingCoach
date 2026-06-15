@@ -2,6 +2,14 @@
 
 Use these links when a weekly plan includes an exercise that may need execution guidance. Keep the plan readable: add only the links that match the exercises used that week.
 
+## Morning Mobility
+
+- Hips: do 45 seconds deep squat pry, 45 seconds 90/90 switches, then 30 seconds controlled lunges or hip airplanes per side. Guides: [WODprep hip exercises](https://wodprep.com/blog/hip-exercises/) and [Barbell Physio hip mobility](https://thebarbellphysio.com/hip-mobility-for-squats/)
+- Thoracic spine: do 5 slow open book rotations per side, following the hand with the eyes and keeping knees stacked. Guide: [SOS Physiotherapy open book](https://sosphysiotherapy.ca/weeklyexercises/upper-back-stretch-thoracic-rotation-the-open-book-by-courtney-voisin/)
+- Shoulders and scapulae: do 8 scapular wall slides and 8 scapular push-up plus reps. Guides: [Muscle & Strength scapular wall slide](https://www.muscleandstrength.com/exercises/scapular-wall-slide) and [Physiopedia push-up plus](https://www.physio-pedia.com/Push_Up_Plus_Exercise)
+- Wrists and fingers: do wrist rocks, wrist circles, finger flicks, and gentle finger extension/flexion for 60 to 90 seconds. Guides: [GMB wrists](https://gmb.io/wrists/) and [Climbing wrist/finger warmup](https://www.climbing.com/skills/warm-up-wrists-and-fingers/)
+- Readiness check: rate fingers, shoulders, skin, sleep, and motivation from 1 to 5. If pain is sharp, nervy, one-sided, or worsening, remove max hangs and hard board attempts.
+
 ## Finger Strength
 
 - Max hangs and fingerboard setup: [Hooper's Beta hangboarding routine](https://www.hoopersbeta.com/library/hangboarding-routine-training-for-climbing)

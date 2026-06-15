@@ -62,6 +62,7 @@ Add entries under `Past Week Log` after every session. Keep them short but concr
 - Friday 17:30-22:00 is aerobic volume, technique, and core.
 - Sunday 17:30-22:00 is capacity strength plus repeatable links.
 - Keep Wednesday, Thursday, and Saturday as recovery or very light mobility days.
+- Treat this block as a test, not a religion. Continue if it improves repeatability, finger tolerance, recovery between attempts, or session quality. Revise if you feel wrecked or climb worse for 2 sessions in a row.
 
 **Day 1 - Tuesday, 2026-06-16, 20:00-23:00 - Capacity baseline**
 
@@ -95,6 +96,9 @@ Add entries under `Past Week Log` after every session. Keep them short but concr
 - Stop max finger work immediately if pain feels sharp, nervy, or one-sided.
 - No true max hangs or repeated V10+ Kilter limit attempts this week.
 - If fingers are above 3 out of 10 pain during warmup, downgrade to technique climbing and stop board volume early.
+- If finger soreness carries into the next morning, soften the next climbing day instead of forcing the written plan.
+- Change only one variable at a time: repeat count, rest density, grade, or strength load. Do not progress all of them together.
+- Keep what works for your actual body response. Drop what only creates soreness, finger flare-ups, or worse movement quality.
 - Wednesday: 10 to 20 minutes easy walk plus hips, shoulders, and forearms.
 - Thursday: rest or 10 minutes mobility only.
 - Saturday: rest, skin care, and light mobility. No hard pulling.
@@ -132,6 +136,13 @@ Use this section when a planned day changes, such as skipping a session, swappin
 - Later feedback shifted the week to a capacity block.
 - Capacity plan synced to existing calendar event descriptions: Tuesday, 2026-06-16 from 20:00 to 23:00; Friday, 2026-06-19 from 17:30 to 22:00; Sunday, 2026-06-21 from 17:30 to 22:00.
 - Only event descriptions were changed during capacity sync; event title, time, attendees, color, reminders, location, Meet links, and recurrence were preserved.
+
+### 2026-06-15 Response Guardrail Refresh
+
+- Updated the current plan and calendar descriptions with the new test-and-adjust rule.
+- Continue the capacity block only if it improves repeatability, finger tolerance, recovery between attempts, or session quality.
+- Revise the block if climbing feels worse for 2 sessions in a row, or if finger soreness carries into the next morning.
+- Only event descriptions were changed; event title, time, attendees, color, reminders, location, Meet links, and recurrence were preserved.
 
 ## Plan History
 

@@ -92,6 +92,13 @@ Add entries under `Past Week Log` after every session. Keep them short but concr
 - If skin is the limiter, reduce board attempts before reducing warmup or mobility.
 - Progress only one thing next week: board difficulty, hang load, or number of quality hard attempts.
 
+**Exercise guide links**
+
+- Finger strength: [hangboarding routine](climbing-plan/references/exercise-guide.md#finger-strength)
+- Weighted pull-ups, dips, shoulder press: [pulling and pressing](climbing-plan/references/exercise-guide.md#pulling-and-pressing)
+- Front lever, toes-to-bar, hollow holds: [core and body tension](climbing-plan/references/exercise-guide.md#core-and-body-tension)
+- Heel hooks and toe hooks: [climbing technique](climbing-plan/references/exercise-guide.md#climbing-technique)
+
 **What to log next week**
 
 - Date and session type.

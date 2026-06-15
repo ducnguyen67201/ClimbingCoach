@@ -65,6 +65,7 @@
 - Include "what to log next week" so the next plan has useful data.
 - When specific weekdays or Google Calendar events are provided, write the exact date, weekday, and time for each climbing day.
 - Include morning routine, session warmup, climb, train, cooldown, and logging bullets for each climbing day.
-- For Google Calendar descriptions, keep text scannable: title line, focus, morning, session warmup, climb, train, cooldown, and log-after sections.
+- Include exercise guide links for non-obvious exercises, using `exercise-guide.md`.
+- For Google Calendar descriptions, keep text scannable: title line, focus, morning, session warmup, climb, train, cooldown, guide links, and log-after sections.
 - For Google Calendar sync, only update the event description. Never create, move, resize, rename, recolor, or otherwise change the event.
 - Avoid branded coach language. Keep the tone like a practical climbing coach.

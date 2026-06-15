@@ -1,0 +1,4 @@
+interface:
+  display_name: "Climbing Plan"
+  short_description: "Turn weekly climbing logs into next-week plans"
+  default_prompt: "Use $climbing-plan to read my past week of climbing and update my journey document with a new plan."

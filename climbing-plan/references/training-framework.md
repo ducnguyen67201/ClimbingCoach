@@ -15,6 +15,7 @@
 3. Repeatable board volume: use submaximal Kilter or gym boulders that preserve movement quality.
 4. Pulling and body tension: use 5x5-style strength before chasing max singles.
 5. Technique under volume: heel hooks, toe hooks, compression, deadpoints, and tension through foot cuts.
+6. Treat every training block as a trial: keep what improves repeatability and finger tolerance, adjust what only creates soreness, finger flare-ups, or worse climbing.
 
 ## Evidence Base
 
@@ -42,6 +43,13 @@ During the capacity block:
 - Use 5x5-style work: 5 repeatable problems, 5 quality repeats each, or 5 sets of 5 controlled strength reps.
 - End sessions with fingers feeling trained but not angry.
 - Progress by adding cleaner repeats before adding grade or load.
+
+Evaluate the block weekly:
+
+- Continue if the athlete gets more consistent sends, less finger irritation, better recovery between attempts, or more useful volume at the same grade.
+- Soften the next session if the athlete feels wrecked, loses movement quality, or carries finger soreness into the next morning.
+- Change only one variable at a time so the athlete can tell what caused the response.
+- Prefer athlete response over generic protocol purity. Climbing is specific, and individual tolerance matters.
 
 Move back toward max-output work only after:
 
@@ -101,6 +109,7 @@ When max hangs return:
 - If sleep and recovery were poor: cut accessory lifting volume by 30 to 50 percent.
 - If all sessions were completed and the athlete feels fresh: progress one variable only, such as load, board intensity, or total hard attempts.
 - Do not increase finger intensity and board intensity in the same week after a high-fatigue week.
+- If a plan makes climbing noticeably worse for 2 sessions in a row, treat it as a bad fit for the current moment and revise the block.
 
 ## Output Style
 

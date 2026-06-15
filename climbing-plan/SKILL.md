@@ -39,6 +39,7 @@ Use this skill to turn recent climbing logs into a focused next-week plan inside
 - Treat the athlete's baseline as V9 outdoors, V10 Kilterboard, 3 climbing days per week, and a V12 Kilterboard goal by the end of 2026 unless the journey says otherwise.
 - If the athlete reports inconsistent session quality, finger pain after hard Kilter attempts, or feeling like capacity is missing, prioritize a capacity block before max-output work.
 - During a capacity block, bias toward repeatable submaximal board volume, 5x5-style climbing or strength, movement quality, and pain-free finger loading.
+- Treat each block as a test. Continue only when it improves repeatability, finger tolerance, recovery, or session quality; revise it if the athlete feels wrecked or climbs worse for 2 sessions in a row.
 - Return to max finger strength, limit bouldering, and V11-V13 attempts only after sessions feel consistent and finger irritation is quiet for at least 2 weeks.
 - Treat max hangs as a later high-intensity strength block, usually 1 to 2 sessions per week, only after a quiet-finger capacity phase.
 - Keep finger pain at 0 to 3 out of 10. If pain is sharp, nervy, localized to a pulley, worsening during a session, or worse the next morning, remove hard crimping and recommend clinical assessment instead of training through it.

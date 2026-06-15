@@ -20,18 +20,19 @@ Use this skill to turn recent climbing logs into a focused next-week plan inside
 
 1. Locate and read the journey document.
 2. Read `references/training-framework.md` before writing or changing a plan.
-3. Read `references/exercise-guide.md` when the plan includes strength, mobility, core, hangboard, or technique exercises.
-4. Extract the last 7 calendar days of climbing notes. Accept dated headings, checklists, or a `Past Week Log` section.
-5. Summarize what changed: sessions completed, hard attempts, volume, board grades, finger work, pulling work, core work, recovery, skin, and pain signals.
-6. If calendar sync is requested or implied, discover upcoming `Climbing` events first and use those exact dates/times as the training days.
-7. Write a new `## Current Plan` for the next week. If a current plan already exists, move the old one under `## Plan History` before replacing it.
-8. Keep the plan to 3 climbing days unless the user explicitly requests otherwise or the calendar only contains a different number of climbing blocks.
-9. Include day-specific timing when the user provides weekdays/dates or when calendar events are discovered.
-10. Include morning mobility, readiness check, session warmup, primary climbing work, strength accessories, cooldown, recovery, success criteria, and adjustment rules.
-11. Include exercise guide links and brief execution descriptions for non-obvious exercises, either inline or as an `Exercise guide links` section.
-12. Preserve user logs exactly unless the user asks for cleanup.
-13. If the user asks to update calendar events, follow the Calendar Sync workflow below after the journey plan is updated.
-14. Run `scripts/quality_check.py` against the repository or edited document before finishing.
+3. Read `references/finger-strength-research-2026.md` when the user asks for research-backed planning, finger pain decisions, hangboard progression, V12 preparation, strength standards, or scientific evidence.
+4. Read `references/exercise-guide.md` when the plan includes strength, mobility, core, hangboard, or technique exercises.
+5. Extract the last 7 calendar days of climbing notes. Accept dated headings, checklists, or a `Past Week Log` section.
+6. Summarize what changed: sessions completed, hard attempts, volume, board grades, finger work, pulling work, core work, recovery, skin, and pain signals.
+7. If calendar sync is requested or implied, discover upcoming `Climbing` events first and use those exact dates/times as the training days.
+8. Write a new `## Current Plan` for the next week. If a current plan already exists, move the old one under `## Plan History` before replacing it.
+9. Keep the plan to 3 climbing days unless the user explicitly requests otherwise or the calendar only contains a different number of climbing blocks.
+10. Include day-specific timing when the user provides weekdays/dates or when calendar events are discovered.
+11. Include morning mobility, readiness check, session warmup, primary climbing work, strength accessories, cooldown, recovery, success criteria, and adjustment rules.
+12. Include exercise guide links and brief execution descriptions for non-obvious exercises, either inline or as an `Exercise guide links` section.
+13. Preserve user logs exactly unless the user asks for cleanup.
+14. If the user asks to update calendar events, follow the Calendar Sync workflow below after the journey plan is updated.
+15. Run `scripts/quality_check.py` against the repository or edited document before finishing.
 
 ## Planning Rules
 
@@ -39,6 +40,9 @@ Use this skill to turn recent climbing logs into a focused next-week plan inside
 - If the athlete reports inconsistent session quality, finger pain after hard Kilter attempts, or feeling like capacity is missing, prioritize a capacity block before max-output work.
 - During a capacity block, bias toward repeatable submaximal board volume, 5x5-style climbing or strength, movement quality, and pain-free finger loading.
 - Return to max finger strength, limit bouldering, and V11-V13 attempts only after sessions feel consistent and finger irritation is quiet for at least 2 weeks.
+- Treat max hangs as a later high-intensity strength block, usually 1 to 2 sessions per week, only after a quiet-finger capacity phase.
+- Keep finger pain at 0 to 3 out of 10. If pain is sharp, nervy, localized to a pulley, worsening during a session, or worse the next morning, remove hard crimping and recommend clinical assessment instead of training through it.
+- Use taping only as support or proprioceptive feedback. Never use taping as permission to add max hangs or harder board attempts.
 - Do not turn every week into a max week. Adjust volume down when the past week shows high fatigue, tweaky fingers, poor sleep, or repeated missed sessions.
 - When the user gives specific training days or calendar events are discovered, map the core sessions onto those days and name the date and time for each session.
 - Add a short morning routine for each climbing day: breathing, hips, thoracic spine, shoulders, wrists, fingers, and a readiness check.
@@ -99,6 +103,7 @@ Use this structure when replacing `## Current Plan`:
 ## Resource Use
 
 - `references/training-framework.md`: load before writing plans.
+- `references/finger-strength-research-2026.md`: load for evidence-based planning, finger pain, hangboard progression, max-strength blocks, capacity blocks, or V12 readiness questions.
 - `references/exercise-guide.md`: load when exercises or technique drills need execution links.
 - `scripts/find_journey.py`: locate the journey file when the path is not provided.
 - `scripts/quality_check.py`: scan edited files for accidental banned brand wording.

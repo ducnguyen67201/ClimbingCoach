@@ -16,6 +16,16 @@
 4. Pulling and body tension: use 5x5-style strength before chasing max singles.
 5. Technique under volume: heel hooks, toe hooks, compression, deadpoints, and tension through foot cuts.
 
+## Evidence Base
+
+For science-backed decisions, use `finger-strength-research-2026.md`. Current evidence supports these principles:
+
+- Finger strength and finger endurance matter for climbing performance, but technique, movement efficiency, recovery, and tissue tolerance still decide whether the strength transfers.
+- Supplemental hangboard or fingerboard work can improve finger strength over 8 to 10 week blocks, but it should be introduced only when fingers are quiet enough to tolerate it.
+- General resistance training standards support heavy loading for strength, but heavy loading is not the right answer when the athlete is currently irritated, inconsistent, or under-recovered.
+- Tendon adaptation is load-responsive and slow enough that progression should be measured in weeks, not single sessions.
+- Taping may support an injured pulley, but it should not be used as permission to climb harder through pain.
+
 ## Periodization Rule
 
 Use a 3 to 6 week capacity block before returning to max-output work when the athlete reports:
@@ -32,6 +42,20 @@ During the capacity block:
 - Use 5x5-style work: 5 repeatable problems, 5 quality repeats each, or 5 sets of 5 controlled strength reps.
 - End sessions with fingers feeling trained but not angry.
 - Progress by adding cleaner repeats before adding grade or load.
+
+Move back toward max-output work only after:
+
+- Finger pain stays at 0 to 3 out of 10 during climbing and is not worse the next morning.
+- The athlete completes at least 2 consistent weeks without finger flare-ups.
+- Submaximal board work feels repeatable rather than desperate.
+- Only one major stressor is progressed at a time: finger intensity, board intensity, or total hard volume.
+
+When max hangs return:
+
+- Use 1 to 2 sessions per week.
+- Put finger strength early in the session after a thorough warmup.
+- Start conservatively and progress only after pain-free completion.
+- Reduce hard crimp board attempts in the same week.
 
 ## Default 3-Day Structure
 
@@ -71,6 +95,8 @@ During the capacity block:
 
 - If fingers feel sharp, nervy, or tweaky: remove max hangs and hard crimping for the week.
 - If hard Kilter attempts make fingers hurt, downgrade the next 2 weeks to capacity climbing and avoid true max-output work.
+- If pain is localized to a pulley, worsens during the session, or is worse the next morning: stop hard crimping and recommend clinical assessment. Dynamic ultrasound is the best-supported diagnostic tool when pulley injury is suspected.
+- If taping is used, treat it as support or feedback only. It does not upgrade the day's training intensity.
 - If the athlete missed two sessions last week: restart with one hard day, one technique day, and one moderate project day.
 - If sleep and recovery were poor: cut accessory lifting volume by 30 to 50 percent.
 - If all sessions were completed and the athlete feels fresh: progress one variable only, such as load, board intensity, or total hard attempts.
